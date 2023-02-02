@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
-import TodoListItem from './todoListItem';
-import { TodoContext } from '../contexts/todoContext';
+import TodoListItem from './TodoListItem';
+import { TodoContext } from '../contexts/TodoProvider';
 
 function TodoList() {
   return (
