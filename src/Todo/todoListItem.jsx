@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import React, { memo } from 'react';
 import PropTypes from 'prop-types';
-import { TodoContext } from '../contexts/TodoProvider';
+import { TodoContext } from '../contexts/todoContext';
 
 function TodoListItem({ item }) {
   // console.log('Todo Item Render');

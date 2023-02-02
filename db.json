@@ -1,5 +1,16 @@
 {
-  "todoList": [],
+  "todoList": [
+    {
+      "text": "ASASA",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "text": "AAA",
+      "isDone": true,
+      "id": 2
+    }
+  ],
   "weatherList": [
     {
       "cityName": "Ahmedabad",
